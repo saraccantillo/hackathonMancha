@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Cargar el dataset
-df = pd.read_excel(r'c:\Users\jairo\OneDrive - Universidad Libre\Desktop\Ciencia de Datos\DataSet\datasetLimpio.xlsx')
+df = pd.read_excel(r'datasetLimpio.xlsx')
 
 
 #mostrar las columnas con datos Null o faltantes
